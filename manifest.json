@@ -1,21 +1,21 @@
 {
-  "short_name": "Byrdle",
-  "name": "Byrdle",
+  "short_name": "Lawdle",
+  "name": "Lawdle",
   "icons": [
     {
-      "src": "/byrdle/index_files/byrdle_logo_32x32.png",
+      "src": "/byrdle/index_files/L.png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "/byrdle/index_files/byrdle_logo_192x192.png",
+      "src": "/byrdle/index_files/L.png",
       "type": "image/png",
       "sizes": "192x192"
     }
   ],
-  "start_url": "https://rbrignall.github.io/byrdle/",
+  "start_url": "https://jaronstevenson.github.io/lawdle/",
   "background_color": "#6aaa64",
   "display": "standalone",
   "theme_color": "#6aaa64",
-  "description": "A choral-themed parody of Wordle"
+  "description": "A law-themed parody of Wordle"
 }
