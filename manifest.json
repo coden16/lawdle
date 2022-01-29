@@ -3,19 +3,19 @@
   "name": "Lawdle",
   "icons": [
     {
-      "src": "/byrdle/index_files/L.png",
+      "src": "/byrdle/index_files/T.png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "/byrdle/index_files/L.png",
+      "src": "/byrdle/index_files/T.png",
       "type": "image/png",
       "sizes": "192x192"
     }
   ],
-  "start_url": "https://jaronstevenson.github.io/lawdle/",
+  "start_url": "https://coden001.github.io/taydle/",
   "background_color": "#6aaa64",
   "display": "standalone",
   "theme_color": "#6aaa64",
-  "description": "A law-themed parody of Wordle"
+  "description": "A Taylor Swift-themed parody of Wordle"
 }
